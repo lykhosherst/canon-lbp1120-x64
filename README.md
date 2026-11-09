@@ -2,6 +2,8 @@
 
 An unofficial, experimental CAPT printing bridge for the Canon LASER SHOT LBP-1120 connected over USB.
 
+This unofficial driver and printing bridge was created with the assistance of artificial intelligence (AI).
+
 The Windows printer queue uses the built-in **Microsoft IPP Class Driver** to send jobs to a local CAPT bridge, which communicates with the printer through `usbprint.sys`. No virtual machine, second computer, or original 32-bit Canon driver is required.
 
 Tested on one Windows 11 x64 PC. A clean installation on another PC has not yet been verified. Windows 10 and Windows ARM64 have not been tested.
