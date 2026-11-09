@@ -1,0 +1,14 @@
+*.exe
+*.dll
+*.log
+*.pbm
+*.pwg
+*.pdf
+/dist/
+/setup-build/
+/queue/
+/logs/
+/tools/w64devkit/
+/tools/github-cli/
+install-result.json
+installation.json

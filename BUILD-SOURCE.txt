@@ -1,0 +1,6 @@
+Build on Windows x64 with .NET Framework 4.x:
+Extract w64devkit 2.11.0 to tools/w64devkit (compiler not included).
+Run in PowerShell, in order: .\build.ps1, .\build-bridge.ps1, .\build-setup.ps1
+Installer output: dist/Canon-LBP1120-x64-Setup.exe
+Upstream libcapt license: upstream/LICENSE.
+Source and documentation only; build tools and generated binaries excluded.
